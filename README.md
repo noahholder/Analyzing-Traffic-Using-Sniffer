@@ -17,31 +17,59 @@ Project consists of capturing and analyzing network traffic using a sniffer.
 
 <p align="center">
 List files in directory: <br/>
-<img src="images/Clean1.png" width="80%" >
+<img src="images/Traffic1.png" width="80%" >
 <br />
 <br />
 Open file with elevated privileges: <br/>
-<img src="images/Clean2.png" width="80%" >
+<img src="images/Traffic2.png" width="80%" >
 <br />
 <br />
 Exit: <br/>
-<img src="images/Clean3.png" width="80%" >
+<img src="images/Traffic3.png" width="80%" >
 <br />
 <br />
 Execute the script: <br/>
-<img src="images/Clean4.png" width="80%" >
+<img src="images/Traffic4.png" width="80%" >
 <br />
 <br />
 List files in directory and verify presence of Normal.txt: <br/>
-<img src="images/Clean5.png" width="80%" >
+<img src="images/Traffic5.png" width="80%" >
 <br />
 <br />
 View first 10 lines of file and verify there are no labels or punctuation marks: <br/>
-<img src="images/Clean6.png" width="80%" >
+<img src="images/Traffic6.png" width="80%" >
 <br />
 <br />
 Clear the terminal for next section: <br/>
-<img src="images/Clean7.png" width="80%" >
+<img src="images/Traffic7.png" width="80%" >
+<br />
+<br />
+List files in directory: <br/>
+<img src="images/Traffic8.png" width="80%" >
+<br />
+<br />
+Open file with elevated privileges: <br/>
+<img src="images/Traffic9.png" width="80%" >
+<br />
+<br />
+Exit: <br/>
+<img src="images/Traffic10.png" width="80%" >
+<br />
+<br />
+Execute the script: <br/>
+<img src="images/Traffic11.png" width="80%" >
+<br />
+<br />
+List files in directory and verify presence of Normal.txt: <br/>
+<img src="images/Traffic12.png" width="80%" >
+<br />
+<br />
+View first 10 lines of file and verify there are no labels or punctuation marks: <br/>
+<img src="images/Traffic13.png" width="80%" >
+<br />
+<br />
+Clear the terminal for next section: <br/>
+<img src="images/Traffic14.png" width="80%" >
 </p>
 
 <!--
