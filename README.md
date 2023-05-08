@@ -7,11 +7,11 @@ Project consists of capturing and analyzing network traffic using a sniffer.
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Python</b>
+- <b>Wireshark</b>
 
 <h2>Environments Used </h2>
 
-- <b>Ubuntu</b>
+- <b>Kali 2 Linux</b>
 
 <h2>Program walk-through:</h2>
 
